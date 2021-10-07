@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Alief DN 
 
-I am a highly motivated recent graduate of Telecommunications Engineering from Bandung State Polytechnic with a specialization in the Data Science field. Pandemic took me to realized that I am passionate about analyzing data and how to develop from there. As a student active in business and organization activity, it let my eyes open that data information is worth equally like money than what some people think. 
+I am a highly motivated recent graduate of Electrical Engineering from Bandung State Polytechnic with a specialization in the Data Science field. Pandemic took me to realized that I am passionate about analyzing data and how to develop from there. As a student active in business and organization activity, it let my eyes open that data information is worth equally like money than what some people think. 
 
 Here are some ideas to get you started:
 
