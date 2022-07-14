@@ -4,7 +4,7 @@ I am a highly motivated recent graduate of Electrical Engineering from Bandung S
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning Data Science in Dibimbing Boot Camp
+- 🔭 I’m currently working as Data Analyst
 - 👯 I’m looking to collaborate on Data Science Project
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alief-devara-nabil/)
 - ⚡ Fun fact: Absolutely love socialize and talking about new ideas that can be implement in business and industry
